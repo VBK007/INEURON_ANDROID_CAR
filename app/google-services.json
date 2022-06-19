@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "461737826499",
+    "firebase_url": "https://gofrugal-d2bde-default-rtdb.firebaseio.com",
+    "project_id": "gofrugal-d2bde",
+    "storage_bucket": "gofrugal-d2bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461737826499:android:88102b0dbf5bbcccc92a76",
+        "android_client_info": {
+          "package_name": "com.example.listviewusingmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461737826499-1gp3gh057ojsl5mv3ihnleq2e7m9tfma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xCCdfmBdybGe2oiUTffZXP7-QXZi0Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461737826499-1gp3gh057ojsl5mv3ihnleq2e7m9tfma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461737826499:android:715264ab0ca23aadc92a76",
+        "android_client_info": {
+          "package_name": "nr.king.carserv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461737826499-1gp3gh057ojsl5mv3ihnleq2e7m9tfma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xCCdfmBdybGe2oiUTffZXP7-QXZi0Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461737826499-1gp3gh057ojsl5mv3ihnleq2e7m9tfma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

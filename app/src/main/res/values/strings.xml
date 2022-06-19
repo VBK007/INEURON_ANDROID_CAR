@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">CarServ</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="manage_your_car_service">manage your Car Service</string>
+    <string name="manage_your_car_service_slogans">seamlessly and intuitvely</string>
+    <string name="sign_in">Sign In</string>
+    <string name="orText">Or</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signin">SignIn</string>
+    <string name="phonenumber_or_email">PhoneNumber</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welocome">Welcome..!</string>
+    <string name="hello_there_register_to_continue">Hello there Register to Continue</string>
+    <string name="register">Register</string>
+    <string name="fnameandlastName">First and Last Name</string>
+    <string name="fname">Fname</string>
+    <string name="lastName">Last Name</string>
+    <string name="AddressInfo">AddressInfo</string>
+    <string name="please_enter_the_field_if_you_are_the_shop_owner">Please Enter the Field if you are the Shop Owner</string>
+    <string name="shopName">shopName</string>
+    <string name="is_you_shop_owner">Is you Shop Owner</string>
+    <string name="overall_status_of_month">OverAll status of Month</string>
+
 </resources>
